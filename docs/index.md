@@ -5,14 +5,20 @@ layout: home
 hero:
   name: "SmartPLC"
   text: "昆山佰奥PLC通讯管理服务"
-  tagline: My great project tagline
+  tagline: 让PLC交互越来越简单
+  image:
+    src: /logo.png
+    alt: 顺发
   actions:
     - theme: brand
-      text: Markdown Examples
-      link: /markdown-examples
+      text: 使用背景
+      link: /guide/markdown-examples
     - theme: alt
-      text: API Examples
-      link: /api-examples
+      text: 实现原理
+      link: /guide/api-examples
+    - theme: alt
+      text: C#范例
+      link: /guide/api-examples
 
 features:
   - title: Feature A
