@@ -2,6 +2,7 @@ import { defineConfig } from 'vitepress'
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
+  base: '/smart_plc_doc/',
   title: "SmartPLC",
   description: "昆山佰奥PLC通讯管理服务",
   head: [
