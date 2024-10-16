@@ -8,7 +8,7 @@ export default defineConfig({
   head: [
     ["meta", {name: "author", content: "shunfa.han"}],
 		["meta", {name: "keywords", content: "SmartPLC,"}],
-    ["link", {rel: "icon", href: "/smart_plc.png"}],
+    ["link", {rel: "icon", href: "/smartplcdoc/smart_plc.png"}],
   ],
   themeConfig: {
     logo: '/smart_plc.png',
