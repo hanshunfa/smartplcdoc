@@ -11,7 +11,7 @@ export default defineConfig({
     ["link", {rel: "icon", href: "/smart_plc.png"}],
   ],
   themeConfig: {
-    logo: 'docs/smart_plc.png',
+    logo: '/smart_plc.png',
     // https://vitepress.dev/reference/default-theme-config
     nav: [
       { text: '首页', link: '/' },
