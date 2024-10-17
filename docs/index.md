@@ -14,8 +14,8 @@ hero:
       text: 使用背景
       link: /guide/使用背景
     - theme: alt
-      text: 实现原理
-      link: /guide/实现原理
+      text: 配置PLC
+      link: /guide/配置PLC
     - theme: brand
       text: C#范例
       link: /guide/examples/CShapExample

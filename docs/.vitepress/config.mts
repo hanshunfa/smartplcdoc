@@ -16,7 +16,7 @@ export default defineConfig({
     nav: [
       { text: '首页', link: '/' },
       { text: '使用背景', link: '/guide/使用背景' },
-      { text: '实现原理', link: '/guide/实现原理' },
+      { text: '配置PLC', link: '/guide/配置PLC' },
       { text: '范例', 
         items: [
           {text: "C#范例", link: '/guide/examples/CShapExample'},
@@ -30,7 +30,7 @@ export default defineConfig({
         text: '菜单',
         items: [
           { text: '使用背景', link: '/guide/使用背景'},
-          { text: '实现原理', link: '/guide/实现原理' },
+          { text: '配置PLC', link: '/guide/配置PLC' },
           {
               text: '范例',
               items: [
@@ -50,6 +50,7 @@ export default defineConfig({
       next: '下一节',
     },
     outline: {
+      level: [2, 4],
       label: "在这一页"
     },
     // 搜索
